@@ -150,4 +150,5 @@ u should try to fit as much as you can to screenshots
 
 **More Info**
 
-https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step1.png
+![image](https://github.com/karamagueye/AirBnB_clone/assets/124457622/08104fe3-698c-46df-8b2e-436efd7693fc)
+
